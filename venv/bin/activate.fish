@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/mox/workspace/local/asteroids-pygame/venv"
+set -gx VIRTUAL_ENV "/Users/mox/workspace/github.com/asteroids-pygame/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
